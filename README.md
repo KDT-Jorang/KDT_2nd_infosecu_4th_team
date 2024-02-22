@@ -1,5 +1,2 @@
-# KDT_2nd_infosecu_4th_team
-
-## 침해사고 대응 관련 시스템 구축 및 개발/포렌식 아티팩트 수집 시스템 개발 (2-1)
-
-## OSINT 및 딥다크웹 정보 수집 및 알람 시스템 개발/딥다크웹 정보 수집 및 알람 시스템 개발
+# Artifact-Collector
+KDT goorm 2nd project
